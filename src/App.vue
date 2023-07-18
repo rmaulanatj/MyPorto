@@ -15,7 +15,7 @@
           >
         </button>
         <div class="flex md:order-2 fadein-bot">
-          <a href="https://github.com/rakha-elctrnx"
+          <a href="https://github.com/rmaulanatj"
             ><img
               class="w-9 rounded-full"
               src="https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png"
